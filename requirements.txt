@@ -4,4 +4,3 @@ voila-vuetify
 bqplot
 numpy
 ipywidgets
-IPython.display

@@ -3,9 +3,5 @@ ipyvuetify
 voila-vuetify
 bqplot
 numpy
-glob
-os
-yaml
-datetime
 ipywidgets
 IPython.display
